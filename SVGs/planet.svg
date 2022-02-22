@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1350.7 563.7" style="enable-background:new 0 0 1350.7 563.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C3DEE4;}
+	.st1{fill:none;stroke:#C3DEE4;stroke-width:40;stroke-miterlimit:10;}
+	.st2{fill:#306079;}
+	.st3{fill:none;stroke:#306079;stroke-width:40;stroke-miterlimit:10;}
+</style>
+<g id="planet">
+	<g id="bottom">
+		<g>
+			<g>
+				
+					<ellipse transform="matrix(0.9984 -5.656133e-02 5.656133e-02 0.9984 -15.3294 38.9466)" class="st0" cx="680.4" cy="290.3" rx="273.4" ry="273.4"/>
+			</g>
+			<g>
+				
+					<ellipse transform="matrix(0.9533 -0.3019 0.3019 0.9533 -55.8179 219.0277)" class="st1" cx="680.7" cy="290.1" rx="681.4" ry="74.9"/>
+			</g>
+		</g>
+	</g>
+	<g id="top">
+		<g>
+			<g>
+				
+					<ellipse transform="matrix(0.9984 -5.656133e-02 5.656133e-02 0.9984 -14.3902 38.3555)" class="st2" cx="670.4" cy="273.4" rx="273.4" ry="273.4"/>
+			</g>
+			<g>
+				
+					<ellipse transform="matrix(0.9533 -0.3019 0.3019 0.9533 -50.8519 214.9559)" class="st3" cx="670" cy="272" rx="681.4" ry="74.9"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
